@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-avilatek-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An eslint config file for Avila Tek employees",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-avilatek": "^1.0.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-html": "^6.0.2",
     "eslint-plugin-import": "^2.21.2",
@@ -43,6 +44,7 @@
     "@typescript-eslint/parser": "^3.3.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
+    "eslint-config-avilatek": "^1.0.0",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-html": "^6.0.2",
@@ -51,6 +53,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.4",
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.5"
   }
 }

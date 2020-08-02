@@ -47,12 +47,6 @@ module.exports = {
         ignoreParameters: true,
       },
     ],
-    '@typescript-eslint/no-unused-vars': [
-      1,
-      {
-        argsIgnorePattern: 'res|next|^err',
-      },
-    ],
   },
   settings: {
     'import/resolver': {

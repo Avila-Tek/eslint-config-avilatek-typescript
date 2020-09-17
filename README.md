@@ -1,6 +1,8 @@
 # Eslint Config Avila Tek Typescript
 
-Este breve paquete es una configuración de eslint para los proyectos de [Avila Tek](https://avilatek.dev) esta inspirado en la configuración de [wesbos](https://github.com/wesbos/eslint-config-wesbos) la version de [JavaScript](https://github.com/Avila-Tek/eslint-config-avilatek) puedes encontrarla [aquí](https://github.com/Avila-Tek/eslint-config-avilatek).
+![Avila Tek Logo](https://avilatek.dev/assets/images/logo_white.png)
+
+Este repositorio contiene la configuración de eslint que se utiliza en [Avila Tek](https://avilatek.dev) tiene una fuerte inspiración en la configuración de [wesbos](https://github.com/wesbos/eslint-config-wesbos) la version de [JavaScript](https://github.com/Avila-Tek/eslint-config-avilatek) puedes encontrarla [aquí](https://github.com/Avila-Tek/eslint-config-avilatek).
 
 ## Install
 
@@ -44,3 +46,11 @@ Luego deberás abrir el archivo de `settings.json` (preferiblemente el global) y
   ]
 }
 ```
+
+## Licencia
+
+Este proyecto, cuenta con la Licencia MIT.
+
+---
+
+Elaborado por [@zoomelectrico](https://github.com/zoomelectrico)

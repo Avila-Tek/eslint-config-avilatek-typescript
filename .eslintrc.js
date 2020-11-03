@@ -3,7 +3,7 @@ module.exports = {
     es6: true,
     node: true,
   },
-  'extends': [
+  extends: [
     'avilatek',
     'prettier',
     'prettier/react',
@@ -11,7 +11,6 @@ module.exports = {
     'plugin:import/errors',
     'plugin:import/warnings',
     'plugin:import/typescript',
-
   ],
   globals: {
     Atomics: 'readonly',
@@ -51,8 +50,8 @@ module.exports = {
   settings: {
     'import/resolver': {
       node: {
-        extensions: ['.js', '.jsx', '.ts', '.tsx', '.json']
-      }
+        extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
+      },
     },
   },
-}
+};

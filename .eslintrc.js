@@ -6,8 +6,6 @@ module.exports = {
   extends: [
     'avilatek',
     'prettier',
-    'prettier/prettier',
-    'prettier/react',
     'plugin:@typescript-eslint/recommended',
     'plugin:import/errors',
     'plugin:import/warnings',

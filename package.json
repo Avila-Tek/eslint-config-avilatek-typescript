@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-avilatek-typescript",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "A simple, but strong opinionated eslint-config for Avila Tek Projects using typescript, that had been open sourced",
   "main": "index.js",
   "scripts": {
@@ -24,35 +24,35 @@
   },
   "homepage": "https://github.com/Avila-Tek/eslint-config-avilatek-typescript#readme",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.31.0",
-    "@typescript-eslint/parser": "^4.31.0",
-    "eslint": "^7.32.0",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.1",
     "eslint-config-airbnb": "^18.2.1",
-    "eslint-config-avilatek": "^1.7.0",
+    "eslint-config-avilatek": "^1.8.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-html": "^6.1.2",
-    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react": "^7.25.1",
+    "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "prettier": "^2.3.2",
-    "typescript": "^4.4.2"
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.31.0",
-    "@typescript-eslint/parser": "^4.31.0",
-    "eslint": "^7.32.0",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.1",
     "eslint-config-airbnb": "^18.2.1",
-    "eslint-config-avilatek": "^1.7.0",
+    "eslint-config-avilatek": "^1.8.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-html": "^6.1.2",
-    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react": "^7.25.1",
+    "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "prettier": "^2.3.2",
-    "typescript": "^4.4.2"
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
   }
 }
